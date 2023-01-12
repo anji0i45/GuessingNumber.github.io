@@ -4,7 +4,7 @@
 // - DOM catalogs our web page into individual objects which we can select and manipulate
 // -->
  
-let secretNumber = Math.floor(Math.random() * 100) + 1;
+let secretNumber = Math.floor(Math.random() * 20) + 1;
 let score = 20;
 let highScore = 0
 console.log(secretNumber)
